@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomePage</string>
+    <string name="firmware_catering">Firmware Catering</string>
+    <string name="about">About</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="firmware_catering_is_a_family_business_that_prioritizes_customer_service_and_satisfaction_our_services_range_from_savory_pastas_to_gourmet_desserts_and_much_much_more">Firmware Catering is a family business that prioritizes customer service and satisfaction. Our services range from savory pastas to gourmet desserts and much, much more!</string>
+    <string name="book_your_next_event_with_us">Book Your Next Event With Us!</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+</resources>
